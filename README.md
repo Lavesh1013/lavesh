@@ -1,5 +1,5 @@
-# lavesh
-This is my first repository 
+# Lavesh
+This Is My First Repository 
 <br>
-author- lavesh
+Author- Lavesh
 <H1> I WANT TO BECOME FSD </H1>
